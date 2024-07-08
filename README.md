@@ -29,20 +29,6 @@ https://www.statista.com/statistics/805605/total-population-sub-saharan-africa/[
 
 `Pandas`
 
-### **Developer Information:**
-
-Name-Surname: **Emirhan BULUT**
-
-Contact (Email) : **emirhan.bulut@turkiyeyapayzeka.com**
-
-LinkedIn : **[https://www.linkedin.com/in/artificialintelligencebulut/][LinkedinAccount]**
-
-[LinkedinAccount]: https://www.linkedin.com/in/artificialintelligencebulut/
-
-Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
-
-[OfficialWebSite]: https://www.emirhanbulut.com.tr
-
 [DataSource]: https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/09/Clean_Tech_Report_R_WebSingles.2.pdf
 
 [DataSource1]: https://www.worldometers.info/world-population/south-eastern-asia-population/
